@@ -1,0 +1,45 @@
+{
+  "apps": [
+    "openmasonry-rooms-sync"
+  ],
+  "owners": [
+    "openmasonry"
+  ],
+  "schema": "om.rooms-actual/1",
+  "teams": {
+    "degree-01": [],
+    "degree-02": [],
+    "degree-03": [],
+    "degree-04": [],
+    "degree-05": [],
+    "degree-06": [],
+    "degree-07": [],
+    "degree-08": [],
+    "degree-09": [],
+    "degree-10": [],
+    "degree-11": [],
+    "degree-12": [],
+    "degree-13": [],
+    "degree-14": [],
+    "degree-15": [],
+    "degree-16": [],
+    "degree-17": [],
+    "degree-18": [],
+    "degree-19": [],
+    "degree-20": [],
+    "degree-21": [],
+    "degree-22": [],
+    "degree-23": [],
+    "degree-24": [],
+    "degree-25": [],
+    "degree-26": [],
+    "degree-27": [],
+    "degree-28": [],
+    "degree-29": [],
+    "degree-30": [],
+    "degree-31": [],
+    "degree-32": [],
+    "degree-33": []
+  },
+  "time": "2026-11-14T14:21:36Z"
+}
